@@ -1,0 +1,11 @@
+Employee Name,Pay Type,Hours,Rate,Total Amount,Date
+Sarah Johnson,Regular,40,45.00,1800.00,2024-01-15
+Michael Chen,Overtime,8,52.50,420.00,2024-01-15
+Emily Rodriguez,Regular,40,42.00,1680.00,2024-01-15
+David Kim,Vacation,16,38.00,608.00,2024-01-15
+Lisa Williams,Bonus,0,0.00,500.00,2024-01-15
+Sarah Johnson,Regular,40,45.00,1800.00,2024-01-22
+Michael Chen,Regular,40,35.00,1400.00,2024-01-22
+Emily Rodriguez,Sick,8,42.00,336.00,2024-01-22
+David Kim,Regular,40,38.00,1520.00,2024-01-22
+Lisa Williams,Holiday,8,48.00,384.00,2024-01-22
